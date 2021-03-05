@@ -1,1 +1,1 @@
-Images for to aid in notebooks
+Images for notebooks
