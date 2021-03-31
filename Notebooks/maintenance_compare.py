@@ -105,4 +105,4 @@ def growth_yeild(u_exp, u_pred, uptake_exp):
 
 # function for pulling single row of data
 
-def 
+def
