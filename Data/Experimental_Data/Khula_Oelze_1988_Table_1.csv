@@ -1,7 +1,3 @@
-Carbon Source,O2_conc,Maint_coef_pro,Maint_coef_gCDW
-Sucrose,12,1.2,0.9
-Sucrose,48,5.8,4.4
-Sucrose,108,8.2,6.2
-Sucrose,144,9.2,7
-Sucrose,192,10.5,8
-Glucose,108,19.6,14.8
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff10ccb2e3470e32d0578d2c12fe9215bb5d81a3a71b397aaff3b846336ec2b8
+size 177
