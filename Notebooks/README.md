@@ -6,7 +6,7 @@
 - **Rnf_stoich.ipynb**: A companion document that details the thermodynamics of the enzyme Rnf and proposed stoichiometry.
 - **Physiological Constraints**: Constraining the carbon metabolism of model iAA1300 to experimental data and testing growth
 - **ETS_Maintenance_Energy.ipynb**: Initial determination of maintenance energy from experimental data dependant on branches of the electron transport system.
-- **maintenance_compare.ipynb**: Testing of predicted maintenance rates to predict growth and other physiological variables.
-- **Flux_sampling_O2.ipynb**: FLux sampling comparing high and low oxygen concentrations. 
+- **ATPM_compare.ipynb**: Testing of predicted maintenance rates to predict growth and other physiological variables.
+- **Flux_sampling_O2.ipynb**: Flux sampling comparing high and low oxygen concentrations. 
 - **Flux_sampling_alternatives**: Flux sampling of alternative nitrogenases with increased energy demand.
 - **Ammonia_excretion**: Analysis of model with ammonia excretion phenotype. 

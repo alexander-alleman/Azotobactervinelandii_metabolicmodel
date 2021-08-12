@@ -3,7 +3,7 @@ Genome scale metabolic model describing aerobic nitrogen fixation in *Azotobacte
 
 <p>&nbsp;</p>
 
-This is the corresponding model curation and analysis to the manuscript *Metabolic model of nitrogen-fixing obligate aerobe Azotobacter vinelandii demonstrates adaptation to oxygen concentration and metal availability.* Found at bioArxiv link
+This is the corresponding model curation and analysis to the manuscript *Metabolic model of nitrogen-fixing obligate aerobe Azotobacter vinelandii predicts adaptation to oxygen concentration and metal availability.* Found at bioArxiv link: https://www.biorxiv.org/content/10.1101/2021.06.16.448589v1
 
 <p>&nbsp;</p>
 
@@ -32,7 +32,8 @@ This repository has three folders Data, Notebooks, and Outputs
 **Outputs:** mostly figures and graphs from anaylsis in low resolution. Also contains Memote reports. 
 
 Model data was received from Tec-Campos et al. (
-https://doi.org/10.1016/j.mec.2020.e00132) and coresponding github (https://github.com/cristalzucsd/AvinelandiiDJ) or received from the BiGG Model database
+https://doi.org/10.1016/j.mec.2020.e00132) and corresponding github (https://github.com/cristalzucsd/AvinelandiiDJ) or received from the BiGG Model database
 
 Experimental data from: Kuhla and Oelze, 1988, [Dependency of growth yield, maintenance and Ks-values on the dissolved oxygen concentration in continuous cultures of <i>Azotobacter vinelandii</i>](./Data/Experimental_Data/Khula_Oelze.pdf)
 
+**Fair Warning, I am a biologist self taught in python scripting so I know there are faster ways of doing things. So feel free to use some of this for your own model just know there always is a better way!** 
